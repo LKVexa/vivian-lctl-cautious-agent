@@ -1,0 +1,15 @@
+{
+  "schema": "vivian.lctl-single-agent.v1",
+  "version": "1.0.0",
+  "agent_id": "player_cautious",
+  "display_name": "Cautious",
+  "repository": "vivian-lctl-cautious-agent",
+  "scaffold": "BOTTLE_ROCKET_5.0.1_VM_110K_RC",
+  "lctl_profile": "LCTLC/1.1",
+  "frozen_source_authority": "4.7.0",
+  "policy_sha256": {
+    "source_sha256": "29c5443123bc6dc104b7d9f3e7f66c26d00bde44332e379be43605f42189b2e7",
+    "image_sha256": "5d10c93736d69b20a31311c7e736de5ba43cd0a2f1b94a97988ca32c81d3401a",
+    "brir_sha256": "3db4677375194ce77634b50860d85cafee136368e3d1145719bd346ccd0dbd5b"
+  }
+}
